@@ -7,10 +7,6 @@
 ![Language: Chinese](https://img.shields.io/badge/Language-Chinese-d73a49)
 ![Brand: Daibulei](https://img.shields.io/badge/Brand-%E5%91%86%E4%B8%8D%E7%B4%AF-6f42c1)
 
-<p align="center">
-  <img src="assets/xiaohongshu-profile.jpg" width="520" alt="呆不累讲 AI 小红书主页截图">
-</p>
-
 读完，不只是知道它讲了什么，而是知道它跟你有什么关系、哪里值得信、哪里值得偷师。
 
 ## 为什么做这个 skill
@@ -147,3 +143,7 @@ cp -R long-content-digest ~/.claude/skills/
 后续会继续整理更多长文拆解成品和实用效率 skills。
 
 感兴趣可以加微信 `AIgcywsys` 蹲更新。
+
+<p align="center">
+  <img src="assets/xiaohongshu-profile.jpg" width="520" alt="呆不累讲 AI 小红书主页截图">
+</p>
