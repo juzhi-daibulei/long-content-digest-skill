@@ -144,16 +144,19 @@ cp -R long-content-digest ~/.claude/skills/
 
 我会持续把真实工作里用得上的 AI 知识库、skills 和工作流整理出来，做成普通人也能直接调用的效率工具。
 
+| 平台 | 链接 |
+| --- | --- |
+| 小红书（呆不累讲 AI） | [呆不累讲 AI](https://www.xiaohongshu.com/user/profile/677743dc000000001801c990?xsec_token=ABjxaRfErmJpjpwAE8Q3FsQHh2EfnOcqKKcdjml5ipd_8=&xsec_source=pc_search) |
+| 小红书（晚熟番茄讲 AI） | [晚熟番茄讲 AI](https://www.xiaohongshu.com/user/profile/66e46238000000001d033940?xsec_token=ABlwXuJ3lhACpErC6gpHNUbg4I9MF5GS5TcTTsD8XRpvs%3D&xsec_source=pc_search) |
+| 抖音（晚熟番茄讲 AI） | [晚熟番茄讲 AI](https://www.douyin.com/user/MS4wLjABAAAAd_P_vuxNaX9Y2Idej1zYMIUQcyyfdd5c2Pr_KiNUjIA) |
+| 公众号 | 晚熟番茄讲 AI |
+| 视频号 | 晚熟番茄讲 AI |
+| GitHub | [juzhi-daibulei](https://github.com/juzhi-daibulei) |
+| 微信 | [`AIgcywsys`](assets/wechat-qr-daibulei.jpg) |
+
 个人微信：`AIgcywsys`
 
 <img src="assets/wechat-qr-daibulei.jpg" width="180" alt="呆不累微信二维码">
-
-| 平台 | 链接 |
-| --- | --- |
-| 小红书 | [呆不累讲 AI](assets/xiaohongshu-profile.jpg)，小红书号：`11507897344` |
-| 微信 | [`AIgcywsys`](assets/wechat-qr-daibulei.jpg) |
-| 第二账号 | [晚熟番茄讲AI](assets/wanshu-tomato-ai-video-qr.jpg)，全网同名 |
-| GitHub | [juzhi-daibulei](https://github.com/juzhi-daibulei) |
 
 小红书「呆不累讲 AI」主页：
 
