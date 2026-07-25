@@ -138,12 +138,28 @@ cp -R long-content-digest ~/.claude/skills/
 - 扮演材料作者本人
 - 把普通摘要包装成复杂框架
 
-## 呆不累专题
+## 关于作者
 
-后续会继续整理更多长文拆解成品和实用效率 skills。
+**呆不累讲 AI** — AI 大厂 B 端 PM，深耕 AI 工作流五年。
 
-感兴趣可以加微信 `AIgcywsys` 蹲更新。
+我会持续把真实工作里用得上的 AI 知识库、skills 和工作流整理出来，做成普通人也能直接调用的效率工具。
+
+| 平台 | 入口 |
+| --- | --- |
+| 小红书 | 呆不累讲 AI，小红书号：`11507897344` |
+| 微信 | `AIgcywsys` |
+| GitHub | [juzhi-daibulei](https://github.com/juzhi-daibulei) |
+
+后续会继续整理更多长文拆解成品和实用效率 skills，感兴趣可以在小红书或微信蹲更新。
 
 <p align="center">
   <img src="assets/xiaohongshu-profile.jpg" width="520" alt="呆不累讲 AI 小红书主页截图">
 </p>
+
+## Star History
+
+如果这个 skill 对你有帮助，欢迎点个 Star 支持一下。
+
+## License
+
+MIT. See [LICENSE](./LICENSE).
