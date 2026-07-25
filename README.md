@@ -146,11 +146,9 @@ cp -R long-content-digest ~/.claude/skills/
 
 个人微信：`AIgcywsys`
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="assets/wechat-qr-daibulei.jpg" width="180" alt="呆不累微信二维码"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/wechat-qr-daibulei.jpg" width="170" alt="呆不累微信二维码">
+</p>
 
 | 平台 | 入口 |
 | --- | --- |
@@ -161,19 +159,15 @@ cp -R long-content-digest ~/.claude/skills/
 
 小红书「呆不累讲 AI」主页：
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="assets/xiaohongshu-profile.jpg" width="360" alt="呆不累讲 AI 小红书主页截图"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/xiaohongshu-profile.jpg" width="360" alt="呆不累讲 AI 小红书主页截图">
+</p>
 
 如果你是小白，想从零开始学 AI，可以关注我的第二个号：**晚熟番茄讲AI**，全网同名，一个全网 4W 的 AI 博主账号。
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="assets/wanshu-tomato-ai-video-qr.jpg" width="220" alt="晚熟番茄讲AI 视频号二维码"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/wanshu-tomato-ai-video-qr.jpg" width="220" alt="晚熟番茄讲AI 视频号二维码">
+</p>
 
 后续会继续整理更多长文拆解成品和实用效率 skills，感兴趣可以在小红书、微信或第二账号蹲更新。
 
