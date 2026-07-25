@@ -156,12 +156,9 @@ cp -R long-content-digest ~/.claude/skills/
 后续会继续整理更多长文拆解成品和实用效率 skills，感兴趣可以在小红书、微信或第二账号蹲更新。
 
 <p align="center">
-  <img src="assets/xiaohongshu-profile.jpg" width="500" alt="呆不累讲 AI 小红书主页截图">
-</p>
-
-<p align="center">
-  <img src="assets/wechat-qr-daibulei.png" width="300" alt="呆不累微信二维码">
-  <img src="assets/wanshu-tomato-ai-video-qr.jpg" width="300" alt="晚熟番茄讲AI 视频号二维码">
+  <img src="assets/xiaohongshu-profile.jpg" width="260" alt="呆不累讲 AI 小红书主页截图">
+  <img src="assets/wechat-qr-daibulei.png" width="160" alt="呆不累微信二维码">
+  <img src="assets/wanshu-tomato-ai-video-qr.jpg" width="160" alt="晚熟番茄讲AI 视频号二维码">
 </p>
 
 ## Star History
