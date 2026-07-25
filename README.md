@@ -144,7 +144,11 @@ cp -R long-content-digest ~/.claude/skills/
 
 我会持续把真实工作里用得上的 AI 知识库、skills 和工作流整理出来，做成普通人也能直接调用的效率工具。
 
-如果你是小白，想从零开始学 AI，可以关注我的第二个号：**晚熟番茄讲AI**，全网同名，一个全网 4W 的 AI 博主账号。
+个人微信：`AIgcywsys`
+
+<p align="center">
+  <img src="assets/wechat-qr-daibulei.png" width="180" alt="呆不累微信二维码">
+</p>
 
 | 平台 | 入口 |
 | --- | --- |
@@ -153,13 +157,19 @@ cp -R long-content-digest ~/.claude/skills/
 | 第二账号 | 晚熟番茄讲AI，全网同名 |
 | GitHub | [juzhi-daibulei](https://github.com/juzhi-daibulei) |
 
-后续会继续整理更多长文拆解成品和实用效率 skills，感兴趣可以在小红书、微信或第二账号蹲更新。
+小红书「呆不累讲 AI」主页：
 
 <p align="center">
-  <img src="assets/xiaohongshu-profile.jpg" width="260" alt="呆不累讲 AI 小红书主页截图">
-  <img src="assets/wechat-qr-daibulei.png" width="160" alt="呆不累微信二维码">
-  <img src="assets/wanshu-tomato-ai-video-qr.jpg" width="160" alt="晚熟番茄讲AI 视频号二维码">
+  <img src="assets/xiaohongshu-profile.jpg" width="360" alt="呆不累讲 AI 小红书主页截图">
 </p>
+
+如果你是小白，想从零开始学 AI，可以关注我的第二个号：**晚熟番茄讲AI**，全网同名，一个全网 4W 的 AI 博主账号。
+
+<p align="center">
+  <img src="assets/wanshu-tomato-ai-video-qr.jpg" width="220" alt="晚熟番茄讲AI 视频号二维码">
+</p>
+
+后续会继续整理更多长文拆解成品和实用效率 skills，感兴趣可以在小红书、微信或第二账号蹲更新。
 
 ## Star History
 
