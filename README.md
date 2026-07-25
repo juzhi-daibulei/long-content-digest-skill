@@ -150,9 +150,9 @@ cp -R long-content-digest ~/.claude/skills/
 
 | 平台 | 入口 |
 | --- | --- |
-| 小红书 | 呆不累讲 AI，小红书号：`11507897344` |
-| 微信 | `AIgcywsys` |
-| 第二账号 | 晚熟番茄讲AI，全网同名 |
+| 小红书 | [呆不累讲 AI](assets/xiaohongshu-profile.jpg)，小红书号：`11507897344` |
+| 微信 | [`AIgcywsys`](assets/wechat-qr-daibulei.jpg) |
+| 第二账号 | [晚熟番茄讲AI](assets/wanshu-tomato-ai-video-qr.jpg)，全网同名 |
 | GitHub | [juzhi-daibulei](https://github.com/juzhi-daibulei) |
 
 小红书「呆不累讲 AI」主页：
