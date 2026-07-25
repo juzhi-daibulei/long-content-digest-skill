@@ -148,7 +148,7 @@ cp -R long-content-digest ~/.claude/skills/
 
 <img src="assets/wechat-qr-daibulei.jpg" width="180" alt="呆不累微信二维码">
 
-| 平台 | 入口 |
+| 平台 | 链接 |
 | --- | --- |
 | 小红书 | [呆不累讲 AI](assets/xiaohongshu-profile.jpg)，小红书号：`11507897344` |
 | 微信 | [`AIgcywsys`](assets/wechat-qr-daibulei.jpg) |
